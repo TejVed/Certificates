@@ -1,2 +1,2 @@
 # Certificates
-This repository consist of course certificates and achievements procured in smorgasbord competitions
+This repository consists of course certificates and achievements procured in smorgasbord competitions
